@@ -2,4 +2,4 @@ pandas
 numpy
 python-telegram-bot
 ccxt
-ta-lib
+TA-Lib==0.4.24  # Spesifik bir sürüm deneyelim
